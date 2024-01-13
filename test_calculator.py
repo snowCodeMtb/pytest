@@ -11,7 +11,7 @@ def test_negative_num():
 # test2
 def test_zero():
     assert square(0) == 0
-
+#test
 def test_str():
     with pytest.raises(ValueError):
         square("cat")
