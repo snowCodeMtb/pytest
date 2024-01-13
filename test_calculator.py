@@ -8,7 +8,7 @@ def test_positive_num():
 def test_negative_num():
     assert square(-2) == 4
     assert square(-4) ==16
-
+# test2
 def test_zero():
     assert square(0) == 0
 
